@@ -33,7 +33,7 @@
 			</div>
 		{/foreach}
 
-		<div class="row submit">
+		<div class="buttonHolder row submit">
 			<input type="hidden" name="page" value="{$page}" />
 			<input type="submit" name="change_prefs" value="{tr}Change preferences{/tr}" />
 		</div>
